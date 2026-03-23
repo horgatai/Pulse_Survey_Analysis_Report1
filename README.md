@@ -2,8 +2,7 @@
 
 > An end-to-end analysis of an internal HR pulse survey, including data visualisation, qualitative theme extraction, and actionable recommendations.
 
-**[→ View Live Report]([[[https://[your-username].github.io/[your-repo-name]/](https://horgatai.github.io/Pulse_Survey_Analysis_Report1/)](https://horgatai.github.io/Pulse_Survey_Analysis_Report1/](https://horgatai.github.io/Pulse_Survey_Analysis_Report1/
-)**
+**[→ View Live Report](https://horgatai.github.io/Pulse_Survey_Analysis_Report1/)**
 
 ---
 
