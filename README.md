@@ -1,4 +1,4 @@
-# 📊 Employee Experience Pulse Survey — Analysis Report
+# Employee Experience Pulse Survey — Analysis Report
 
 > An end-to-end analysis of an internal HR pulse survey, including data visualisation, qualitative theme extraction, and actionable recommendations.
 
