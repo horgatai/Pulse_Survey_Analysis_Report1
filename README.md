@@ -1,4 +1,4 @@
-# Employee Experience Pulse Survey — Analysis Report
+# Employee Experience Pulse Survey - Analysis Report
 
 > An end-to-end analysis of an internal HR pulse survey, including data visualisation, qualitative theme extraction, and actionable recommendations.
 
@@ -25,11 +25,11 @@ The survey covered 10 questions across five key areas:
 ## Key findings
 
 - **60% of employees** rate their overall HR experience at 4 or 5 out of 5
-- **60% felt supported** during onboarding — but 40% were neutral or unsupported, signalling a clear improvement area
+- **60% felt supported** during onboarding - but 40% were neutral or unsupported, signalling a clear improvement area
 - **Online courses (60%)** and **workshops (53%)** are the most-used L&D formats; job rotations are significantly underutilised (20%)
 - **AI & automation** is the #1 skill employees want to develop in the next 12 months
-- **38% do not feel equipped** for changes driven by AI and automation — a future readiness gap
-- **HR NPS score: −7** — driven by a large Passive segment (40%) that represents a conversion opportunity
+- **38% do not feel equipped** for changes driven by AI and automation - a future readiness gap
+- **HR NPS score: −7** - driven by a large Passive segment (40%) that represents a conversion opportunity
 - Qualitative responses consistently frame HR's ideal future role as **strategic partner, coach, and employee advocate**
 
 ---
@@ -52,7 +52,7 @@ The survey covered 10 questions across five key areas:
 └── README.md         # This file
 ```
 
-The report is built with **vanilla HTML, CSS, and JavaScript** — no frameworks, no build tools, no dependencies beyond a CDN-hosted Chart.js. It works offline and renders correctly on GitHub Pages out of the box.
+The report is built with **vanilla HTML, CSS, and JavaScript** - no frameworks, no build tools, no dependencies beyond a CDN-hosted Chart.js. It works offline and renders correctly on GitHub Pages out of the box.
 
 ---
 
@@ -60,12 +60,12 @@ The report is built with **vanilla HTML, CSS, and JavaScript** — no frameworks
 
 This project was built to reflect practical skills relevant to HR and People Analytics roles:
 
-- **Survey design literacy** — understanding what each question type (Likert, NPS, open-ended) measures and how to interpret it.
-- **Data storytelling** — translating numbers into narrative, not just displaying charts.
-- **Qualitative analysis** — extracting recurring themes from open-ended responses.
-- **NPS interpretation** — calculating and contextualising a Net Promoter Score.
-- **Recommendations framing** — translating findings into prioritised, actionable next steps.
-- **Report design** — structuring information for an HR/business audience.
+- **Survey design literacy** - understanding what each question type (Likert, NPS, open-ended) measures and how to interpret it.
+- **Data storytelling** - translating numbers into narrative, not just displaying charts.
+- **Qualitative analysis** - extracting recurring themes from open-ended responses.
+- **NPS interpretation** - calculating and contextualising a Net Promoter Score.
+- **Recommendations framing** - translating findings into prioritised, actionable next steps.
+- **Report design** - structuring information for an HR/business audience.
 
 ---
 
