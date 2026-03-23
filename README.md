@@ -6,7 +6,7 @@
 
 ---
 
-## About This Project
+## About this project
 
 This project analyses the results of an **Employee Experience Pulse Survey** conducted in March 2026 (n=15). The goal was to transform raw survey data into a structured, readable report that HR and People teams can use to make evidence-based decisions.
 
@@ -22,7 +22,7 @@ The survey covered 10 questions across five key areas:
 
 ---
 
-## Key Findings
+## Key findings
 
 - **60% of employees** rate their overall HR experience at 4 or 5 out of 5
 - **60% felt supported** during onboarding — but 40% were neutral or unsupported, signalling a clear improvement area
@@ -36,15 +36,15 @@ The survey covered 10 questions across five key areas:
 
 ## Top Recommendations
 
-1. 🚀 **Rebuild onboarding** with a structured 30-day plan, task checklist, and early manager 1:1s
-2. 🤖 **Launch an AI upskilling programme** — addresses both the skills gap (Q5) and readiness concern (Q8)
-3. 📣 **Communicate benefits proactively** — employees are unaware of what's already available
-4. 🔄 **Pilot cross-department rotations** — low cost, high impact on engagement
-5. 🤝 **Position HR as a strategic partner** — aligns with employees' 5-year vision
+1. **Rebuild onboarding** with a structured 30-day plan, task checklist, and early manager 1:1s.
+2. **Launch an AI upskilling programme**. It addresses both the skills gap (Q5) and readiness concern (Q8).
+3. **Communicate benefits proactively**. Employees are unaware of what's already available.
+4. **Pilot cross-department rotations**. Low cost, high impact on engagement.
+5. **Position HR as a strategic partner**. It aligns with employees' 5-year vision.
 
 ---
 
-## What's in This Repo
+## What's in this repo
 
 ```
 📁 /
@@ -56,20 +56,20 @@ The report is built with **vanilla HTML, CSS, and JavaScript** — no frameworks
 
 ---
 
-## Skills Demonstrated
+## Skills demonstrated
 
 This project was built to reflect practical skills relevant to HR and People Analytics roles:
 
-- **Survey design literacy** — understanding what each question type (Likert, NPS, open-ended) measures and how to interpret it
-- **Data storytelling** — translating numbers into narrative, not just displaying charts
-- **Qualitative analysis** — extracting recurring themes from open-ended responses
-- **NPS interpretation** — calculating and contextualising a Net Promoter Score
-- **Recommendations framing** — translating findings into prioritised, actionable next steps
-- **Report design** — structuring information for an HR/business audience
+- **Survey design literacy** — understanding what each question type (Likert, NPS, open-ended) measures and how to interpret it.
+- **Data storytelling** — translating numbers into narrative, not just displaying charts.
+- **Qualitative analysis** — extracting recurring themes from open-ended responses.
+- **NPS interpretation** — calculating and contextualising a Net Promoter Score.
+- **Recommendations framing** — translating findings into prioritised, actionable next steps.
+- **Report design** — structuring information for an HR/business audience.
 
 ---
 
-## How to View Locally
+## How to view locally
 
 No setup required. Just clone the repo and open `index.html` in any browser:
 
@@ -78,15 +78,5 @@ git clone https://github.com/[your-username]/[your-repo-name].git
 cd [your-repo-name]
 open index.html
 ```
-
----
-
-## About Me
-
-I'm exploring a career in **HR / People Operations**, with a particular interest in employee experience, onboarding design, and using data to support people-focused decisions. This project was built as a portfolio piece to demonstrate analytical thinking and communication skills in an HR context.
-
-Feel free to connect on [LinkedIn](#) or reach out via [email](#).
-
----
 
 *Survey conducted March 2026 · Data anonymised · Built for portfolio purposes*
